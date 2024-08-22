@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arunshanth</h1>
-<h3 align="center">Information Systems Undergraduate at UCSC</h3>
+<h3 align="center">Information Systems Undergraduate at UCSC and I'm a passionate software tester with a keen eye for detail and a drive to ensure quality in every aspect of IT. I love exploring different testing methodologies, automating processes, and contributing to projects that prioritize reliability and user satisfaction.</h3>
+
+- 📫 How to reach me **arunshanths@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
